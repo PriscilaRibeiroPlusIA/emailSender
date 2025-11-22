@@ -1,0 +1,4 @@
+EMAIL_REMETENTE="priscila.ribeiro.br@gmail.com"
+SENHA_REMETENTE="ycez avtd wnfy gver"
+SERVIDOR_SMTP="smtp.gmail.com"
+PORTA_SMTP="587"
